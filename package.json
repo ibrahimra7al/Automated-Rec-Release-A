@@ -1,0 +1,23 @@
+{
+  "name": "automated-rec-release-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimra7al/Automated-Rec-Release-A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimra7al/Automated-Rec-Release-A/issues"
+  },
+  "homepage": "https://github.com/ibrahimra7al/Automated-Rec-Release-A#readme",
+  "dependencies": {
+    "automated-rec-release-b-1": "1.0.0",
+    "automated-rec-release-b-2": "1.0.0"
+  }
+}
