@@ -1,6 +1,6 @@
 {
   "name": "automated-rec-release-a",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ibrahimra7al/Automated-Rec-Release-A#readme",
   "dependencies": {
-    "automated-rec-release-b-1": "1.0.0",
-    "automated-rec-release-b-2": "1.0.0"
+    "automated-rec-release-b-1": "1.0.8",
+    "automated-rec-release-b-2": "1.0.2"
   }
 }
